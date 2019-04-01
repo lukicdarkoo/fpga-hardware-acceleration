@@ -9,3 +9,4 @@
 hw/quartus/db/*
 hw/quartus/incremental_db/*
 hw/quartus/output_files/*
+.vscode/*
