@@ -1,0 +1,11 @@
+*.bak
+*.hdb
+*.cdb
+*.o
+*.elf
+*.d
+*.kpt
+*.a
+hw/quartus/db/*
+hw/quartus/incremental_db/*
+hw/quartus/output_files/*
