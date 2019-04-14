@@ -4,7 +4,7 @@
  * Machine generated for CPU 'nios2_gen2_0' in SOPC Builder design 'soc_system'
  * SOPC Builder design path: /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/hw/quartus/soc_system.sopcinfo
  *
- * Generated: Mon Apr 01 11:41:45 CEST 2019
+ * Generated: Mon Apr 08 11:14:25 CEST 2019
  */
 
 /*
@@ -153,6 +153,7 @@
 #define __ALTERA_AVALON_TIMER
 #define __ALTERA_NIOS2_GEN2
 #define __SWAP
+#define __SWAP_ACCELERATOR
 
 
 /*
@@ -171,19 +172,19 @@
 #define ALT_NUM_INTERNAL_INTERRUPT_CONTROLLERS 1
 #define ALT_NUM_INTERRUPT_CONTROLLERS 1
 #define ALT_STDERR "/dev/jtag_uart_0"
-#define ALT_STDERR_BASE 0x810c0
+#define ALT_STDERR_BASE 0x810e0
 #define ALT_STDERR_DEV jtag_uart_0
 #define ALT_STDERR_IS_JTAG_UART
 #define ALT_STDERR_PRESENT
 #define ALT_STDERR_TYPE "altera_avalon_jtag_uart"
 #define ALT_STDIN "/dev/jtag_uart_0"
-#define ALT_STDIN_BASE 0x810c0
+#define ALT_STDIN_BASE 0x810e0
 #define ALT_STDIN_DEV jtag_uart_0
 #define ALT_STDIN_IS_JTAG_UART
 #define ALT_STDIN_PRESENT
 #define ALT_STDIN_TYPE "altera_avalon_jtag_uart"
 #define ALT_STDOUT "/dev/jtag_uart_0"
-#define ALT_STDOUT_BASE 0x810c0
+#define ALT_STDOUT_BASE 0x810e0
 #define ALT_STDOUT_DEV jtag_uart_0
 #define ALT_STDOUT_IS_JTAG_UART
 #define ALT_STDOUT_PRESENT
@@ -208,7 +209,7 @@
  */
 
 #define ALT_MODULE_CLASS_jtag_uart_0 altera_avalon_jtag_uart
-#define JTAG_UART_0_BASE 0x810c0
+#define JTAG_UART_0_BASE 0x810e0
 #define JTAG_UART_0_IRQ 0
 #define JTAG_UART_0_IRQ_INTERRUPT_CONTROLLER_ID 0
 #define JTAG_UART_0_NAME "/dev/jtag_uart_0"
@@ -289,6 +290,20 @@
 #define PIO_0_RESET_VALUE 0
 #define PIO_0_SPAN 32
 #define PIO_0_TYPE "altera_avalon_pio"
+
+
+/*
+ * swap_accelerator_0 configuration
+ *
+ */
+
+#define ALT_MODULE_CLASS_swap_accelerator_0 swap_accelerator
+#define SWAP_ACCELERATOR_0_BASE 0x810d0
+#define SWAP_ACCELERATOR_0_IRQ -1
+#define SWAP_ACCELERATOR_0_IRQ_INTERRUPT_CONTROLLER_ID -1
+#define SWAP_ACCELERATOR_0_NAME "/dev/swap_accelerator_0"
+#define SWAP_ACCELERATOR_0_SPAN 16
+#define SWAP_ACCELERATOR_0_TYPE "swap_accelerator"
 
 
 /*

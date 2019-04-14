@@ -2,8 +2,8 @@
 <sch:Settings xmlns:sch="http://www.altera.com/embeddedsw/bsp/schema">
         <BspType>hal</BspType>
         <BspVersion>default</BspVersion>
-        <BspGeneratedTimeStamp>Apr 1, 2019 11:41:44 AM</BspGeneratedTimeStamp>
-        <BspGeneratedUnixTimeStamp>1554111704509</BspGeneratedUnixTimeStamp>
+        <BspGeneratedTimeStamp>Apr 14, 2019 2:02:26 PM</BspGeneratedTimeStamp>
+        <BspGeneratedUnixTimeStamp>1555243346593</BspGeneratedUnixTimeStamp>
         <BspGeneratedLocation>/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp</BspGeneratedLocation>
         <BspSettingsFile>settings.bsp</BspSettingsFile>
         <SopcDesignFile>/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/hw/quartus/soc_system.sopcinfo</SopcDesignFile>
@@ -923,8 +923,14 @@
                 <attributes/>
         </MemoryMap>
         <MemoryMap>
+                <slaveDescriptor>swap_accelerator_0</slaveDescriptor>
+                <addressRange>0x000810D0 - 0x000810DF</addressRange>
+                <addressSpan>16</addressSpan>
+                <attributes/>
+        </MemoryMap>
+        <MemoryMap>
                 <slaveDescriptor>jtag_uart_0</slaveDescriptor>
-                <addressRange>0x000810C0 - 0x000810C7</addressRange>
+                <addressRange>0x000810E0 - 0x000810E7</addressRange>
                 <addressSpan>8</addressSpan>
                 <attributes>printable</attributes>
         </MemoryMap>
