@@ -1,19 +1,11 @@
 Archive member included to satisfy reference by file (symbol)
 
-/opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
-                              obj/default/hello_world_small.o (malloc)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
                               obj/default/hello_world_small.o (memcpy)
-/opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
-                              /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o) (_free_r)
-/opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
-                              /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o) (_malloc_r)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
                               obj/default/hello_world_small.o (printf)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
                               obj/default/hello_world_small.o (puts)
-/opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
-                              /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o) (_sbrk_r)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
                               /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o) (strlen)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
@@ -21,17 +13,27 @@ Archive member included to satisfy reference by file (symbol)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
                               /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o) (__sfvwrite_small_dev)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
-                              /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o) (_impure_ptr)
-/opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
-                              /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o) (errno)
+                              /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o) (_impure_ptr)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
                               /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o) (_write_r)
+/opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+                              /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o) (errno)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
                               /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o) (__udivsi3)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
                               obj/default/hello_world_small.o (alt_dcache_flush_all)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
                               obj/default/hello_world_small.o (alt_icache_flush_all)
+/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+                              obj/default/hello_world_small.o (alt_ic_isr_register)
+/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                              /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+                              /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+                              /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_handler)
+/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+                              /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o) (alt_irq_active)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
                               /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o (alt_load)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
@@ -40,8 +42,6 @@ Archive member included to satisfy reference by file (symbol)
                               obj/default/hello_world_small.o (alt_printf)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
                               /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o) (alt_putchar)
-/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
-                              /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o) (sbrk)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
                               /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o) (write)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
@@ -54,6 +54,10 @@ Archive member included to satisfy reference by file (symbol)
                               obj/default/hello_world_small.o (perf_print_formatted_report)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
                               /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o) (alt_errno)
+/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+                              /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                              /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
                               /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
@@ -66,6 +70,7 @@ Archive member included to satisfy reference by file (symbol)
 Allocating common symbols
 Common symbol       size              file
 
+alt_irq             0x100             /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
 errno               0x4               /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
 
 Memory Configuration
@@ -97,35 +102,65 @@ LOAD /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios
                 0x0000000000040000                __reset
                 0x000000000004000c                _exit
 
-.exceptions     0x0000000000040020        0x0
+.exceptions     0x0000000000040020      0x168
                 0x0000000000040020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
                 0x0000000000040020                . = ALIGN (0x20)
  *(.irq)
  *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000000040020        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000040020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000000040020        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000040020                alt_exception
  *(.exceptions.entry.user)
  *(.exceptions.entry.ecc_fatal)
  *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000000040020       0x54 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions.irqtest.user)
  *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000000040074       0x10 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
  *(.exceptions.irqhandler.user)
  *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000000040084        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
  *(.exceptions.irqreturn.user)
  *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000000040088        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
  *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000000004008c        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
  *(.exceptions.notirq.user)
  *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000000004008c        0x8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions.soft.user)
  *(.exceptions.soft)
  *(.exceptions.unknown.user)
  *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000000040094       0x14 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00000000000400a8        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00000000000400a8        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions.exit.user)
  *(.exceptions.exit)
+ .exceptions.exit
+                0x00000000000400a8       0x54 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions)
-                0x0000000000040020                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+ .exceptions    0x00000000000400fc       0x60 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000400fc                alt_irq_handler
+ .exceptions    0x000000000004015c       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x000000000004015c                alt_instruction_exception_entry
+                0x0000000000040188                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
                 0x0000000000040020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
 
-.text           0x0000000000040020     0x1e5c
+.text           0x0000000000040188     0x1d18
                 [!provide]                        PROVIDE (stext, ABSOLUTE (.))
  *(.interp)
  *(.hash)
@@ -170,114 +205,110 @@ LOAD /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios
  *(.init)
  *(.plt)
  *(.text .stub .text.* .gnu.linkonce.t.*)
- .text          0x0000000000040020       0x4c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
-                0x0000000000040020                _start
- .text          0x000000000004006c      0x538 obj/default/hello_world_small.o
-                0x00000000000400c8                correctness_test
-                0x0000000000040164                perfomance_test
-                0x00000000000403c4                csv_export
- .text.startup  0x00000000000405a4       0x1c obj/default/hello_world_small.o
-                0x00000000000405a4                main
- .text          0x00000000000405c0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
- .text.malloc   0x00000000000405c0       0x14 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
-                0x00000000000405c0                malloc
- .text.free     0x00000000000405d4       0x14 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
-                0x00000000000405d4                free
- .text          0x00000000000405e8        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .text.memcpy   0x00000000000405e8       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
-                0x00000000000405e8                memcpy
- .text          0x0000000000040610        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .text._free_r  0x0000000000040610       0xe4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
-                0x0000000000040610                _free_r
- .text          0x00000000000406f4        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .text._malloc_r
-                0x00000000000406f4      0x158 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
-                0x00000000000406f4                _malloc_r
- .text          0x000000000004084c        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .text          0x0000000000040188       0x3c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
+                0x0000000000040188                _start
+ .text          0x00000000000401c4      0x594 obj/default/hello_world_small.o
+                0x0000000000040254                correctness_test
+                0x00000000000402e8                perfomance_test
+                0x0000000000040540                csv_export
+ .text.startup  0x0000000000040758       0x38 obj/default/hello_world_small.o
+                0x0000000000040758                main
+ .text          0x0000000000040790        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000040790       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+                0x0000000000040790                memcpy
+ .text          0x00000000000407b8        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
  .text._printf_r
-                0x000000000004084c       0x3c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
-                0x000000000004084c                _printf_r
- .text.printf   0x0000000000040888       0x4c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
-                0x0000000000040888                printf
- .text          0x00000000000408d4        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .text._puts_r  0x00000000000408d4       0x80 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
-                0x00000000000408d4                _puts_r
- .text.puts     0x0000000000040954       0x14 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
-                0x0000000000040954                puts
- .text          0x0000000000040968        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .text._sbrk_r  0x0000000000040968       0x50 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
-                0x0000000000040968                _sbrk_r
- .text          0x00000000000409b8        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .text.strlen   0x00000000000409b8       0x1c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
-                0x00000000000409b8                strlen
- .text          0x00000000000409d4        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+                0x00000000000407b8       0x3c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+                0x00000000000407b8                _printf_r
+ .text.printf   0x00000000000407f4       0x4c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+                0x00000000000407f4                printf
+ .text          0x0000000000040840        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .text._puts_r  0x0000000000040840       0x80 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+                0x0000000000040840                _puts_r
+ .text.puts     0x00000000000408c0       0x14 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+                0x00000000000408c0                puts
+ .text          0x00000000000408d4        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .text.strlen   0x00000000000408d4       0x1c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+                0x00000000000408d4                strlen
+ .text          0x00000000000408f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
  .text.print_repeat
-                0x00000000000409d4       0x6c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+                0x00000000000408f0       0x6c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
  .text.___vfprintf_internal_r
-                0x0000000000040a40      0x524 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
-                0x0000000000040a40                ___vfprintf_internal_r
+                0x000000000004095c      0x524 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+                0x000000000004095c                ___vfprintf_internal_r
  .text.__vfprintf_internal
-                0x0000000000040f64       0x1c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
-                0x0000000000040f64                __vfprintf_internal
- .text          0x0000000000040f80        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+                0x0000000000040e80       0x1c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+                0x0000000000040e80                __vfprintf_internal
+ .text          0x0000000000040e9c        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
  .text.__sfvwrite_small_dev
-                0x0000000000040f80       0xb8 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
-                0x0000000000040f80                __sfvwrite_small_dev
- .text          0x0000000000041038        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
- .text          0x0000000000041038        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
- .text          0x0000000000041038        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+                0x0000000000040e9c       0xb8 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+                0x0000000000040e9c                __sfvwrite_small_dev
+ .text          0x0000000000040f54        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .text          0x0000000000040f54        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
  .text._write_r
-                0x0000000000041038       0x58 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
-                0x0000000000041038                _write_r
- .text          0x0000000000041090      0x1b4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
-                0x0000000000041090                __divsi3
-                0x0000000000041114                __modsi3
-                0x0000000000041188                __udivsi3
-                0x00000000000411ec                __umodsi3
- .text          0x0000000000041244       0x18 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
-                0x0000000000041244                alt_dcache_flush_all
- .text          0x000000000004125c        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
-                0x000000000004125c                alt_icache_flush_all
- .text          0x0000000000041260       0xe0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
-                0x0000000000041260                alt_load
- .text          0x0000000000041340       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
-                0x0000000000041340                alt_main
- .text          0x000000000004136c      0x170 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
-                0x000000000004136c                alt_printf
- .text          0x00000000000414dc       0x48 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
-                0x00000000000414dc                alt_putchar
- .text          0x0000000000041524       0x4c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
-                0x0000000000041524                sbrk
- .text          0x0000000000041570       0x60 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
-                0x0000000000041570                write
- .text          0x00000000000415d0       0x34 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
-                0x00000000000415d0                alt_irq_init
-                0x00000000000415f0                alt_sys_init
- .text          0x0000000000041604       0x34 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
-                0x0000000000041604                altera_avalon_jtag_uart_write
- .text          0x0000000000041638       0x54 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
-                0x0000000000041638                perf_get_section_time
-                0x0000000000041658                perf_get_total_time
-                0x0000000000041660                perf_get_num_starts
-                0x0000000000041674                alt_get_performance_counter_base
-                0x0000000000041680                alt_get_cpu_freq
- .text          0x000000000004168c      0x210 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
-                0x000000000004168c                perf_print_formatted_report
- .text          0x000000000004189c        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
- .text          0x000000000004189c        0x8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
-                0x000000000004189c                altera_nios2_gen2_irq_init
- .text          0x00000000000418a4       0x60 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
-                0x00000000000418a4                __muldi3
- .text          0x0000000000041904      0x578 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
-                0x0000000000041904                __udivdi3
- .text          0x0000000000041e7c        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+                0x0000000000040f54       0x58 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+                0x0000000000040f54                _write_r
+ .text          0x0000000000040fac        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .text          0x0000000000040fac      0x1b4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+                0x0000000000040fac                __divsi3
+                0x0000000000041030                __modsi3
+                0x00000000000410a4                __udivsi3
+                0x0000000000041108                __umodsi3
+ .text          0x0000000000041160        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000041160                alt_dcache_flush_all
+ .text          0x0000000000041164        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000000041164                alt_icache_flush_all
+ .text          0x0000000000041168       0x8c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+                0x0000000000041168                alt_ic_isr_register
+                0x000000000004116c                alt_ic_irq_enable
+                0x00000000000411a4                alt_ic_irq_disable
+                0x00000000000411dc                alt_ic_irq_enabled
+ .text          0x00000000000411f4       0x68 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                0x00000000000411f4                alt_iic_isr_register
+ .text          0x000000000004125c        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .text          0x000000000004125c        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .text          0x000000000004125c        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .text          0x000000000004125c       0xe0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+                0x000000000004125c                alt_load
+ .text          0x000000000004133c       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+                0x000000000004133c                alt_main
+ .text          0x0000000000041368      0x170 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+                0x0000000000041368                alt_printf
+ .text          0x00000000000414d8       0x48 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+                0x00000000000414d8                alt_putchar
+ .text          0x0000000000041520       0x60 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+                0x0000000000041520                write
+ .text          0x0000000000041580       0x34 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+                0x0000000000041580                alt_irq_init
+                0x00000000000415a0                alt_sys_init
+ .text          0x00000000000415b4       0x34 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x00000000000415b4                altera_avalon_jtag_uart_write
+ .text          0x00000000000415e8       0x54 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+                0x00000000000415e8                perf_get_section_time
+                0x0000000000041608                perf_get_total_time
+                0x0000000000041610                perf_get_num_starts
+                0x0000000000041624                alt_get_performance_counter_base
+                0x0000000000041630                alt_get_cpu_freq
+ .text          0x000000000004163c      0x210 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+                0x000000000004163c                perf_print_formatted_report
+ .text          0x000000000004184c        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+ .text          0x000000000004184c        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .text          0x000000000004184c       0x74 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x000000000004184c                alt_exception_cause_generated_bad_addr
+ .text          0x00000000000418c0        0x8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x00000000000418c0                altera_nios2_gen2_irq_init
+ .text          0x00000000000418c8       0x60 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+                0x00000000000418c8                __muldi3
+ .text          0x0000000000041928      0x578 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+                0x0000000000041928                __udivdi3
+ .text          0x0000000000041ea0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
  *(.gnu.warning.*)
  *(.fini)
                 [!provide]                        PROVIDE (__etext, ABSOLUTE (.))
                 [!provide]                        PROVIDE (_etext, ABSOLUTE (.))
                 [!provide]                        PROVIDE (etext, ABSOLUTE (.))
  *(.eh_frame_hdr)
-                0x0000000000041e7c                . = ALIGN (0x4)
+                0x0000000000041ea0                . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__preinit_array_start, ABSOLUTE (.))
  *(.preinit_array)
                 [!provide]                        PROVIDE (__preinit_array_end, ABSOLUTE (.))
@@ -299,163 +330,170 @@ LOAD /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios
  *(SORT(.dtors.*))
                 [!provide]                        PROVIDE (__DTOR_END__, ABSOLUTE (.))
  *(.jcr)
-                0x0000000000041e7c                . = ALIGN (0x4)
+                0x0000000000041ea0                . = ALIGN (0x4)
 
-.rodata         0x0000000000041e7c      0x350
-                0x0000000000041e7c                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
-                0x0000000000041e7c                . = ALIGN (0x4)
+.rodata         0x0000000000041ea0      0x34c
+                0x0000000000041ea0                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x0000000000041ea0                . = ALIGN (0x4)
  *(.rodata .rodata.* .gnu.linkonce.r.*)
  .rodata.str1.4
-                0x0000000000041e7c      0x10d obj/default/hello_world_small.o
- *fill*         0x0000000000041f89        0x3 
- .rodata        0x0000000000041f8c       0x38 obj/default/hello_world_small.o
+                0x0000000000041ea0      0x10d obj/default/hello_world_small.o
+ *fill*         0x0000000000041fad        0x3 
+ .rodata        0x0000000000041fb0       0x34 obj/default/hello_world_small.o
  .rodata.str1.4
-                0x0000000000041fc4      0x10d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+                0x0000000000041fe4      0x10d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
                                           0x2 (size before relaxing)
  .rodata.str1.4
-                0x0000000000041fc4      0x108 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+                0x0000000000041fe4      0x108 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
                                         0x106 (size before relaxing)
- .rodata        0x00000000000420cc      0x100 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
-                0x00000000000420cc                __clz_tab
+ .rodata        0x00000000000420ec      0x100 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+                0x00000000000420ec                __clz_tab
  *(.rodata1)
-                0x00000000000421cc                . = ALIGN (0x4)
-                0x00000000000421cc                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
-                0x0000000000041e7c                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+                0x00000000000421ec                . = ALIGN (0x4)
+                0x00000000000421ec                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x0000000000041ea0                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
 
-.rwdata         0x00000000000421cc       0xf4 load address 0x00000000000422c0
-                0x00000000000421cc                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
-                0x00000000000421cc                . = ALIGN (0x4)
+.rwdata         0x00000000000421ec       0xf4 load address 0x00000000000422e0
+                0x00000000000421ec                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x00000000000421ec                . = ALIGN (0x4)
  *(.got.plt)
  *(.got)
  *(.data1)
  *(.data .data.* .gnu.linkonce.d.*)
- .data          0x00000000000421cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
- .data          0x00000000000421cc        0x0 obj/default/hello_world_small.o
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
- .data          0x00000000000421cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .data          0x00000000000421ec        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
+ .data          0x00000000000421ec        0x0 obj/default/hello_world_small.o
+ .data          0x00000000000421ec        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .data          0x00000000000421ec        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .data          0x00000000000421ec        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .data          0x00000000000421ec        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .data          0x00000000000421ec        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .data          0x00000000000421ec        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .data          0x00000000000421ec        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
  .data.impure_data
-                0x00000000000421cc       0xe0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
- .data          0x00000000000422ac        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
- .data          0x00000000000422ac        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
- .data          0x00000000000422ac        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
- .data          0x00000000000422ac        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
- .data          0x00000000000422ac        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
- .data          0x00000000000422ac        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
- .data          0x00000000000422ac        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
-                0x000000000004a2ac                _gp = ABSOLUTE ((. + 0x8000))
+                0x00000000000421ec       0xe0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .data          0x00000000000422cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .data          0x00000000000422cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .data          0x00000000000422cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x00000000000422cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x00000000000422cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .data          0x00000000000422cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .data          0x00000000000422cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+                0x000000000004a2cc                _gp = ABSOLUTE ((. + 0x8000))
                 [!provide]                        PROVIDE (gp, _gp)
  *(.rwdata .rwdata.*)
  *(.sdata .sdata.* .gnu.linkonce.s.*)
  .sdata._global_impure_ptr
-                0x00000000000422ac        0x4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
-                0x00000000000422ac                _global_impure_ptr
+                0x00000000000422cc        0x4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+                0x00000000000422cc                _global_impure_ptr
  .sdata._impure_ptr
-                0x00000000000422b0        0x4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
-                0x00000000000422b0                _impure_ptr
- .sdata         0x00000000000422b4        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
- .sdata         0x00000000000422b8        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
-                0x00000000000422b8                jtag_uart_0
- .sdata         0x00000000000422bc        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
-                0x00000000000422bc                alt_errno
+                0x00000000000422d0        0x4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+                0x00000000000422d0                _impure_ptr
+ .sdata         0x00000000000422d4        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+                0x00000000000422d4                alt_priority_mask
+ .sdata         0x00000000000422d8        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+                0x00000000000422d8                jtag_uart_0
+ .sdata         0x00000000000422dc        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+                0x00000000000422dc                alt_errno
  *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
-                0x00000000000422c0                . = ALIGN (0x4)
-                0x00000000000422c0                _edata = ABSOLUTE (.)
+                0x00000000000422e0                . = ALIGN (0x4)
+                0x00000000000422e0                _edata = ABSOLUTE (.)
                 [!provide]                        PROVIDE (edata, ABSOLUTE (.))
-                0x00000000000422c0                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
-                0x00000000000422c0                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+                0x00000000000422e0                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x00000000000422e0                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
 
-.bss            0x00000000000423b4       0x18
-                0x00000000000423b4                __bss_start = ABSOLUTE (.)
+.bss            0x00000000000423d4      0x11c
+                0x00000000000423d4                __bss_start = ABSOLUTE (.)
                 [!provide]                        PROVIDE (__sbss_start, ABSOLUTE (.))
                 [!provide]                        PROVIDE (___sbss_start, ABSOLUTE (.))
  *(.dynsbss)
  *(.sbss .sbss.* .gnu.linkonce.sb.*)
- .sbss.__malloc_sbrk_start
-                0x00000000000423b4        0x4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
-                0x00000000000423b4                __malloc_sbrk_start
- .sbss.__malloc_free_list
-                0x00000000000423b8        0x4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
-                0x00000000000423b8                __malloc_free_list
- .sbss          0x00000000000423bc        0x4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
-                0x00000000000423bc                errno
- .sbss          0x00000000000423c0        0xc /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
-                0x00000000000423c0                alt_envp
-                0x00000000000423c4                alt_argv
-                0x00000000000423c8                alt_argc
+ .sbss          0x00000000000423d4        0x4 obj/default/hello_world_small.o
+                0x00000000000423d4                acclerator_done
+ .sbss          0x00000000000423d8        0x4 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+                0x00000000000423d8                errno
+ .sbss          0x00000000000423dc        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+                0x00000000000423dc                alt_irq_active
+ .sbss          0x00000000000423e0        0xc /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+                0x00000000000423e0                alt_envp
+                0x00000000000423e4                alt_argv
+                0x00000000000423e8                alt_argc
+ .sbss          0x00000000000423ec        0x4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x00000000000423ec                alt_instruction_exception_handler
  *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
  *(.scommon)
                 [!provide]                        PROVIDE (__sbss_end, ABSOLUTE (.))
                 [!provide]                        PROVIDE (___sbss_end, ABSOLUTE (.))
  *(.dynbss)
  *(.bss .bss.* .gnu.linkonce.b.*)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
- .bss           0x00000000000423cc        0x0 obj/default/hello_world_small.o
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
- .bss           0x00000000000423cc        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
- .bss           0x00000000000423cc        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
+ .bss           0x00000000000423f0        0x0 obj/default/hello_world_small.o
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x00000000000423f0        0x0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .bss           0x00000000000423f0        0x0 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
  *(COMMON)
-                0x00000000000423cc                . = ALIGN (0x4)
-                0x00000000000423cc                __bss_end = ABSOLUTE (.)
+ COMMON         0x00000000000423f0      0x100 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000423f0                alt_irq
+                0x00000000000424f0                . = ALIGN (0x4)
+                0x00000000000424f0                __bss_end = ABSOLUTE (.)
 
 .onchip_memory2_0
-                0x00000000000423cc        0x0
+                0x00000000000424f0        0x0
                 [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_start, ABSOLUTE (.))
  *(.onchip_memory2_0 .onchip_memory2_0. onchip_memory2_0.*)
-                0x00000000000423cc                . = ALIGN (0x4)
+                0x00000000000424f0                . = ALIGN (0x4)
                 [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_end, ABSOLUTE (.))
-                0x00000000000423cc                _end = ABSOLUTE (.)
-                0x00000000000423cc                end = ABSOLUTE (.)
-                0x00000000000423cc                __alt_stack_base = ABSOLUTE (.)
+                0x00000000000424f0                _end = ABSOLUTE (.)
+                0x00000000000424f0                end = ABSOLUTE (.)
+                0x00000000000424f0                __alt_stack_base = ABSOLUTE (.)
                 [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_load_addr, LOADADDR (.onchip_memory2_0))
 
 .stab
@@ -480,33 +518,33 @@ LOAD /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios
  *(.comment)
  .comment       0x0000000000000000       0x23 obj/default/hello_world_small.o
                                          0x24 (size before relaxing)
- .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
- .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+ .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
- .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+ .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
  .comment       0x0000000000000023       0x24 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
  .comment       0x0000000000000023       0x24 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
@@ -524,54 +562,54 @@ LOAD /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x0000000000000000      0x438
+.debug_aranges  0x0000000000000000      0x498
  *(.debug_aranges)
  .debug_aranges
                 0x0000000000000000       0x28 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
  .debug_aranges
                 0x0000000000000028       0x28 obj/default/hello_world_small.o
  .debug_aranges
-                0x0000000000000050       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
+                0x0000000000000050       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
  .debug_aranges
-                0x0000000000000078       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+                0x0000000000000070       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
  .debug_aranges
-                0x0000000000000098       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
+                0x0000000000000098       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
  .debug_aranges
-                0x00000000000000b8       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
+                0x00000000000000c0       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
  .debug_aranges
-                0x00000000000000d8       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+                0x00000000000000e0       0x30 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
  .debug_aranges
-                0x0000000000000100       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+                0x0000000000000110       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
  .debug_aranges
-                0x0000000000000128       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
+                0x0000000000000130       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
  .debug_aranges
-                0x0000000000000148       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+                0x0000000000000148       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
  .debug_aranges
-                0x0000000000000168       0x30 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+                0x0000000000000168       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
  .debug_aranges
-                0x0000000000000198       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+                0x0000000000000180       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
  .debug_aranges
-                0x00000000000001b8       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+                0x00000000000001a0       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
  .debug_aranges
-                0x00000000000001d0       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+                0x00000000000001c0       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
  .debug_aranges
-                0x00000000000001e8       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+                0x00000000000001e0       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
  .debug_aranges
-                0x0000000000000208       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+                0x0000000000000200       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
  .debug_aranges
-                0x0000000000000228       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000000220       0x30 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
  .debug_aranges
-                0x0000000000000248       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000000000250       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
  .debug_aranges
-                0x0000000000000268       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+                0x0000000000000270       0x18 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
  .debug_aranges
-                0x0000000000000288       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+                0x0000000000000288       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
  .debug_aranges
-                0x00000000000002a8       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+                0x00000000000002a8       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
  .debug_aranges
-                0x00000000000002c8       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+                0x00000000000002c8       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
  .debug_aranges
-                0x00000000000002e8       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
+                0x00000000000002e8       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
  .debug_aranges
                 0x0000000000000308       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
  .debug_aranges
@@ -585,248 +623,255 @@ LOAD /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios
  .debug_aranges
                 0x00000000000003a8       0x18 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
  .debug_aranges
-                0x00000000000003c0       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x00000000000003c0       0x38 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
  .debug_aranges
-                0x00000000000003e0       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+                0x00000000000003f8       0x28 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
  .debug_aranges
-                0x0000000000000400       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+                0x0000000000000420       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
  .debug_aranges
-                0x0000000000000420       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+                0x0000000000000440       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x0000000000000460       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000480       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000     0x6ef9
+.debug_info     0x0000000000000000     0x5e4a
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000       0x90 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
- .debug_info    0x0000000000000090      0x742 obj/default/hello_world_small.o
- .debug_info    0x00000000000007d2      0x619 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
- .debug_info    0x0000000000000deb      0x119 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .debug_info    0x0000000000000f04      0x68c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .debug_info    0x0000000000001590      0x752 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .debug_info    0x0000000000001ce2      0x699 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
- .debug_info    0x000000000000237b      0x66d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .debug_info    0x00000000000029e8      0x608 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .debug_info    0x0000000000002ff0       0xc9 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .debug_info    0x00000000000030b9      0xb2b /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
- .debug_info    0x0000000000003be4      0x62b /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
- .debug_info    0x000000000000420f      0x5a9 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
- .debug_info    0x00000000000047b8       0x8a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
- .debug_info    0x0000000000004842      0x630 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
- .debug_info    0x0000000000004e72      0x2c6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
- .debug_info    0x0000000000005138       0xa6 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_info    0x00000000000051de       0x92 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
- .debug_info    0x0000000000005270      0x1c9 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
- .debug_info    0x0000000000005439      0x169 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
- .debug_info    0x00000000000055a2      0x14d /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
- .debug_info    0x00000000000056ef      0x12a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
- .debug_info    0x0000000000005819      0x1ae /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
- .debug_info    0x00000000000059c7      0x1c7 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
- .debug_info    0x0000000000005b8e      0x1a8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
- .debug_info    0x0000000000005d36      0x197 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .debug_info    0x0000000000005ecd      0x18f /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
- .debug_info    0x000000000000605c      0x3ba /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
- .debug_info    0x0000000000006416       0xa6 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
- .debug_info    0x00000000000064bc       0x92 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
- .debug_info    0x000000000000654e      0x1eb /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
- .debug_info    0x0000000000006739      0x70e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
- .debug_info    0x0000000000006e47       0xb2 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+ .debug_info    0x0000000000000090      0x75c obj/default/hello_world_small.o
+ .debug_info    0x00000000000007ec      0x119 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000000905      0x699 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .debug_info    0x0000000000000f9e      0x66d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .debug_info    0x000000000000160b       0xc9 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x00000000000016d4      0xb2b /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .debug_info    0x00000000000021ff      0x62b /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_info    0x000000000000282a      0x5a9 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .debug_info    0x0000000000002dd3      0x630 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .debug_info    0x0000000000003403       0x8a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x000000000000348d      0x2c6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .debug_info    0x0000000000003753       0x92 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x00000000000037e5       0x92 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x0000000000003877      0x38a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_info    0x0000000000003c01      0x232 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x0000000000003e33       0x99 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000000000003ecc      0x184 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x0000000000004050       0x88 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x00000000000040d8      0x1c9 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+ .debug_info    0x00000000000042a1      0x169 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+ .debug_info    0x000000000000440a      0x14d /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .debug_info    0x0000000000004557      0x12a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+ .debug_info    0x0000000000004681      0x1c7 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .debug_info    0x0000000000004848      0x1a8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00000000000049f0      0x197 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x0000000000004b87      0x18f /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+ .debug_info    0x0000000000004d16      0x3ba /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+ .debug_info    0x00000000000050d0       0xa6 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000005176       0x9f /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000005215      0x1f8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x000000000000540d       0x92 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x000000000000549f      0x1eb /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .debug_info    0x000000000000568a      0x70e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000005d98       0xb2 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
 
-.debug_abbrev   0x0000000000000000     0x249e
+.debug_abbrev   0x0000000000000000     0x215b
  *(.debug_abbrev)
  .debug_abbrev  0x0000000000000000       0x12 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
- .debug_abbrev  0x0000000000000012      0x22a obj/default/hello_world_small.o
- .debug_abbrev  0x000000000000023c      0x1af /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
- .debug_abbrev  0x00000000000003eb       0x9c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .debug_abbrev  0x0000000000000487      0x1dd /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .debug_abbrev  0x0000000000000664      0x269 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .debug_abbrev  0x00000000000008cd      0x1ee /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
- .debug_abbrev  0x0000000000000abb      0x1d6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .debug_abbrev  0x0000000000000c91      0x1c5 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .debug_abbrev  0x0000000000000e56       0x7f /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .debug_abbrev  0x0000000000000ed5      0x2a1 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
- .debug_abbrev  0x0000000000001176      0x1bc /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
- .debug_abbrev  0x0000000000001332      0x14a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
- .debug_abbrev  0x000000000000147c       0x37 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
- .debug_abbrev  0x00000000000014b3      0x1a6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
- .debug_abbrev  0x0000000000001659      0x10e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
- .debug_abbrev  0x0000000000001767       0x5a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_abbrev  0x00000000000017c1       0x42 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
- .debug_abbrev  0x0000000000001803       0xd8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
- .debug_abbrev  0x00000000000018db       0xee /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
- .debug_abbrev  0x00000000000019c9       0xd5 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
- .debug_abbrev  0x0000000000001a9e       0xd2 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
- .debug_abbrev  0x0000000000001b70      0x112 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
- .debug_abbrev  0x0000000000001c82      0x12e /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
- .debug_abbrev  0x0000000000001db0      0x10e /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
- .debug_abbrev  0x0000000000001ebe       0xd5 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .debug_abbrev  0x0000000000001f93       0xbb /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
- .debug_abbrev  0x000000000000204e      0x101 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
- .debug_abbrev  0x000000000000214f       0x5a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
- .debug_abbrev  0x00000000000021a9       0x42 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
- .debug_abbrev  0x00000000000021eb       0xef /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
- .debug_abbrev  0x00000000000022da      0x167 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
- .debug_abbrev  0x0000000000002441       0x5d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+ .debug_abbrev  0x0000000000000012      0x233 obj/default/hello_world_small.o
+ .debug_abbrev  0x0000000000000245       0x9c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000000000002e1      0x1ee /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .debug_abbrev  0x00000000000004cf      0x1d6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .debug_abbrev  0x00000000000006a5       0x7f /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000724      0x2a1 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .debug_abbrev  0x00000000000009c5      0x1bc /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_abbrev  0x0000000000000b81      0x14a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000ccb      0x1a6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000000e71       0x37 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000000ea8      0x10e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x0000000000000fb6       0x42 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000000ff8       0x42 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x000000000000103a      0x1a0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x00000000000011da      0x19c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x0000000000001376       0x12 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x0000000000001388      0x120 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x00000000000014a8       0x40 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x00000000000014e8       0xd8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x00000000000015c0       0xee /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x00000000000016ae       0xd5 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .debug_abbrev  0x0000000000001783       0xd2 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+ .debug_abbrev  0x0000000000001855      0x12e /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x0000000000001983      0x10e /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000000000001a91       0xd5 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x0000000000001b66       0xbb /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+ .debug_abbrev  0x0000000000001c21      0x101 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+ .debug_abbrev  0x0000000000001d22       0x5a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000001d7c       0x12 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x0000000000001d8e       0xd8 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x0000000000001e66       0x42 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x0000000000001ea8       0xef /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .debug_abbrev  0x0000000000001f97      0x167 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000020fe       0x5d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
 
-.debug_line     0x0000000000000000     0x287d
+.debug_line     0x0000000000000000     0x24b8
  *(.debug_line)
- .debug_line    0x0000000000000000       0x6c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
- .debug_line    0x000000000000006c      0x35b obj/default/hello_world_small.o
- .debug_line    0x00000000000003c7      0x1e6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
- .debug_line    0x00000000000005ad      0x15b /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .debug_line    0x0000000000000708      0x19f /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .debug_line    0x00000000000008a7      0x222 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .debug_line    0x0000000000000ac9      0x200 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
- .debug_line    0x0000000000000cc9      0x203 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .debug_line    0x0000000000000ecc      0x1dd /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .debug_line    0x00000000000010a9      0x159 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .debug_line    0x0000000000001202      0x34f /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
- .debug_line    0x0000000000001551      0x1ed /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
- .debug_line    0x000000000000173e      0x153 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
- .debug_line    0x0000000000001891       0x5c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
- .debug_line    0x00000000000018ed      0x1ea /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
- .debug_line    0x0000000000001ad7      0x102 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
- .debug_line    0x0000000000001bd9       0x5a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_line    0x0000000000001c33       0x4e /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
- .debug_line    0x0000000000001c81       0xa4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
- .debug_line    0x0000000000001d25       0xbd /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
- .debug_line    0x0000000000001de2      0x111 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
- .debug_line    0x0000000000001ef3       0x55 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
- .debug_line    0x0000000000001f48       0xf1 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
- .debug_line    0x0000000000002039      0x168 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
- .debug_line    0x00000000000021a1      0x11b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
- .debug_line    0x00000000000022bc       0xf0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .debug_line    0x00000000000023ac       0x8b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
- .debug_line    0x0000000000002437      0x1a2 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
- .debug_line    0x00000000000025d9       0x51 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
- .debug_line    0x000000000000262a       0x50 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
- .debug_line    0x000000000000267a       0x86 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
- .debug_line    0x0000000000002700      0x12a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
- .debug_line    0x000000000000282a       0x53 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+ .debug_line    0x0000000000000000       0x66 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000066      0x37d obj/default/hello_world_small.o
+ .debug_line    0x00000000000003e3      0x15b /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_line    0x000000000000053e      0x200 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .debug_line    0x000000000000073e      0x203 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .debug_line    0x0000000000000941      0x159 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000000a9a      0x34f /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .debug_line    0x0000000000000de9      0x1ed /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_line    0x0000000000000fd6      0x153 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .debug_line    0x0000000000001129      0x1ea /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .debug_line    0x0000000000001313       0x5c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x000000000000136f      0x102 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000001471       0x4e /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x00000000000014bf       0x4e /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x000000000000150d       0xf1 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_line    0x00000000000015fe       0xd6 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x00000000000016d4       0x6b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x000000000000173f       0xa5 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x00000000000017e4       0x50 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x0000000000001834       0xa4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+ .debug_line    0x00000000000018d8       0xbd /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000000000001995      0x111 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .debug_line    0x0000000000001aa6       0x55 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+ .debug_line    0x0000000000001afb      0x168 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .debug_line    0x0000000000001c63      0x11b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000000000001d7e       0xf0 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000001e6e       0x8b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+ .debug_line    0x0000000000001ef9      0x1a2 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+ .debug_line    0x000000000000209b       0x51 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00000000000020ec       0xb3 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x000000000000219f       0xc6 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x0000000000002265       0x50 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x00000000000022b5       0x86 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .debug_line    0x000000000000233b      0x12a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000002465       0x53 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
 
-.debug_frame    0x0000000000000000      0x700
+.debug_frame    0x0000000000000000      0x714
  *(.debug_frame)
- .debug_frame   0x0000000000000000       0xec obj/default/hello_world_small.o
- .debug_frame   0x00000000000000ec       0x30 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
- .debug_frame   0x000000000000011c       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .debug_frame   0x000000000000013c       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .debug_frame   0x000000000000015c       0x40 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .debug_frame   0x000000000000019c       0x48 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
- .debug_frame   0x00000000000001e4       0x48 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .debug_frame   0x000000000000022c       0x38 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .debug_frame   0x0000000000000264       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .debug_frame   0x0000000000000284       0x8c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
- .debug_frame   0x0000000000000310       0x58 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
- .debug_frame   0x0000000000000368       0x38 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
- .debug_frame   0x00000000000003a0       0x50 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
- .debug_frame   0x00000000000003f0       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_frame   0x0000000000000410       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
- .debug_frame   0x0000000000000430       0x30 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
- .debug_frame   0x0000000000000460       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
- .debug_frame   0x000000000000048c       0x54 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
- .debug_frame   0x00000000000004e0       0x30 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
- .debug_frame   0x0000000000000510       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
- .debug_frame   0x0000000000000530       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
- .debug_frame   0x000000000000055c       0x3c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
- .debug_frame   0x0000000000000598       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .debug_frame   0x00000000000005b8       0x60 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
- .debug_frame   0x0000000000000618       0x54 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
- .debug_frame   0x000000000000066c       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
- .debug_frame   0x000000000000068c       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
- .debug_frame   0x00000000000006ac       0x54 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .debug_frame   0x0000000000000000      0x104 obj/default/hello_world_small.o
+ .debug_frame   0x0000000000000104       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000124       0x48 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .debug_frame   0x000000000000016c       0x48 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .debug_frame   0x00000000000001b4       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000001d4       0x8c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .debug_frame   0x0000000000000260       0x58 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_frame   0x00000000000002b8       0x38 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .debug_frame   0x00000000000002f0       0x50 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .debug_frame   0x0000000000000340       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000360       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x0000000000000380       0x50 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x00000000000003d0       0x30 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x0000000000000400       0x34 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000000000000434       0x30 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000000000000464       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+ .debug_frame   0x0000000000000490       0x54 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .debug_frame   0x00000000000004e4       0x30 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+ .debug_frame   0x0000000000000514       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .debug_frame   0x0000000000000540       0x3c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x000000000000057c       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x000000000000059c       0x60 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+ .debug_frame   0x00000000000005fc       0x54 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+ .debug_frame   0x0000000000000650       0x30 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x0000000000000680       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x00000000000006a0       0x20 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .debug_frame   0x00000000000006c0       0x54 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
 
-.debug_str      0x0000000000000000     0x1632
+.debug_str      0x0000000000000000     0x19b6
  *(.debug_str)
- .debug_str     0x0000000000000000      0x229 obj/default/hello_world_small.o
-                                        0x27e (size before relaxing)
- .debug_str     0x0000000000000229      0x3e2 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
-                                        0x4b9 (size before relaxing)
- .debug_str     0x000000000000060b       0xd9 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_str     0x0000000000000000      0x256 obj/default/hello_world_small.o
+                                        0x2ae (size before relaxing)
+ .debug_str     0x0000000000000256      0x12e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
                                         0x1da (size before relaxing)
- .debug_str     0x00000000000006e4       0x9c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
-                                        0x4fd (size before relaxing)
- .debug_str     0x0000000000000780       0x4d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
-                                        0x528 (size before relaxing)
- .debug_str     0x00000000000007cd      0x119 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .debug_str     0x0000000000000384      0x3bb /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
                                         0x4eb (size before relaxing)
- .debug_str     0x00000000000008e6       0x5b /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .debug_str     0x000000000000073f       0x5b /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
                                         0x4b4 (size before relaxing)
- .debug_str     0x0000000000000941       0xd6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
-                                        0x49b (size before relaxing)
- .debug_str     0x0000000000000a17       0x3a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_str     0x000000000000079a       0x3a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
                                         0x1cc (size before relaxing)
- .debug_str     0x0000000000000a51      0x1e3 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .debug_str     0x00000000000007d4      0x1e3 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
                                         0x666 (size before relaxing)
- .debug_str     0x0000000000000c34       0x60 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_str     0x00000000000009b7       0x60 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
                                         0x4bb (size before relaxing)
- .debug_str     0x0000000000000c94       0x58 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .debug_str     0x0000000000000a17       0xe2 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
                                         0x4a5 (size before relaxing)
- .debug_str     0x0000000000000cec       0x3c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
-                                        0x1bf (size before relaxing)
- .debug_str     0x0000000000000d28       0x42 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .debug_str     0x0000000000000af9       0x42 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
                                         0x49f (size before relaxing)
- .debug_str     0x0000000000000d6a      0x16e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .debug_str     0x0000000000000b3b       0x3c /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+                                        0x1bf (size before relaxing)
+ .debug_str     0x0000000000000b77      0x16e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
                                         0x1b9 (size before relaxing)
- .debug_str     0x0000000000000ed8       0x7b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_str     0x0000000000000ce5       0x7b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
                                         0x174 (size before relaxing)
- .debug_str     0x0000000000000f53       0x1f /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_str     0x0000000000000d60       0x1f /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_icache_flush_all.o)
                                         0x174 (size before relaxing)
- .debug_str     0x0000000000000f72       0xf1 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+ .debug_str     0x0000000000000d7f      0x104 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+                                        0x272 (size before relaxing)
+ .debug_str     0x0000000000000e83       0x37 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x22c (size before relaxing)
+ .debug_str     0x0000000000000eba       0x3a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+                                        0x1b6 (size before relaxing)
+ .debug_str     0x0000000000000ef4       0x17 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_vars.o)
+                                        0x159 (size before relaxing)
+ .debug_str     0x0000000000000f0b       0xe9 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
                                         0x25b (size before relaxing)
- .debug_str     0x0000000000001063       0x8a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
+ .debug_str     0x0000000000000ff4       0x8a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_main.o)
                                         0x1d4 (size before relaxing)
- .debug_str     0x00000000000010ed       0x2d /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .debug_str     0x000000000000107e       0x2d /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
                                         0x125 (size before relaxing)
- .debug_str     0x000000000000111a       0x60 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+ .debug_str     0x00000000000010ab       0x60 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
                                         0x1ac (size before relaxing)
- .debug_str     0x000000000000117a       0x98 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
-                                        0x1f3 (size before relaxing)
- .debug_str     0x0000000000001212       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .debug_str     0x000000000000110b       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
                                         0x1ff (size before relaxing)
- .debug_str     0x000000000000123e       0xb9 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_str     0x0000000000001137       0xb9 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
                                         0x284 (size before relaxing)
- .debug_str     0x00000000000012f7       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_str     0x00000000000011f0       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
                                         0x234 (size before relaxing)
- .debug_str     0x0000000000001323       0xb2 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+ .debug_str     0x000000000000121c       0xb2 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
                                         0x202 (size before relaxing)
- .debug_str     0x00000000000013d5       0xb4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+ .debug_str     0x00000000000012ce       0xb4 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
                                         0x2a9 (size before relaxing)
- .debug_str     0x0000000000001489       0x14 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_str     0x0000000000001382       0x14 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_errno.o)
                                         0x164 (size before relaxing)
- .debug_str     0x000000000000149d       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_str     0x0000000000001396      0x48b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x5bf (size before relaxing)
+ .debug_str     0x0000000000001821       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
                                         0x17b (size before relaxing)
- .debug_str     0x00000000000014bd       0x8a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .debug_str     0x0000000000001841       0x8a /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
                                         0x20c (size before relaxing)
- .debug_str     0x0000000000001547       0xeb /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .debug_str     0x00000000000018cb       0xeb /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
                                         0x283 (size before relaxing)
- .debug_str     0x0000000000001632      0x1ca /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
+ .debug_str     0x00000000000019b6      0x1ca /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_clz.o)
 
-.debug_loc      0x0000000000000000     0x3086
+.debug_loc      0x0000000000000000     0x30bc
  *(.debug_loc)
- .debug_loc     0x0000000000000000      0x2a7 obj/default/hello_world_small.o
- .debug_loc     0x00000000000002a7       0x58 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
- .debug_loc     0x00000000000002ff      0x135 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .debug_loc     0x0000000000000434       0xd6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .debug_loc     0x000000000000050a      0x214 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .debug_loc     0x000000000000071e       0xc6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
- .debug_loc     0x00000000000007e4       0x97 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .debug_loc     0x000000000000087b       0x4d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .debug_loc     0x00000000000008c8       0x1e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .debug_loc     0x00000000000008e6      0x901 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
- .debug_loc     0x00000000000011e7      0x110 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
- .debug_loc     0x00000000000012f7       0xa5 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
- .debug_loc     0x000000000000139c      0x4ce /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
- .debug_loc     0x000000000000186a       0x1f /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_loc     0x0000000000001889      0x1de /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
- .debug_loc     0x0000000000001a67       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
- .debug_loc     0x0000000000001a93       0x5a /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sbrk.o)
- .debug_loc     0x0000000000001aed       0xcf /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
- .debug_loc     0x0000000000001bbc       0x21 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
- .debug_loc     0x0000000000001bdd       0x8b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .debug_loc     0x0000000000001c68       0xde /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
- .debug_loc     0x0000000000001d46      0x149 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
- .debug_loc     0x0000000000001e8f      0x12d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
- .debug_loc     0x0000000000001fbc     0x10ca /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .debug_loc     0x0000000000000000      0x2c1 obj/default/hello_world_small.o
+ .debug_loc     0x00000000000002c1      0x135 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000000003f6       0xc6 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .debug_loc     0x00000000000004bc       0x97 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .debug_loc     0x0000000000000553       0x1e /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000571      0x901 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .debug_loc     0x0000000000000e72      0x110 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_loc     0x0000000000000f82       0xa5 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .debug_loc     0x0000000000001027      0x4ce /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .debug_loc     0x00000000000014f5      0x170 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_loc     0x0000000000001665      0x193 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_loc     0x00000000000017f8       0x72 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_loc     0x000000000000186a      0x1de /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .debug_loc     0x0000000000001a48       0x2c /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_putchar.o)
+ .debug_loc     0x0000000000001a74       0xcf /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .debug_loc     0x0000000000001b43       0x21 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x0000000000001b64       0x8b /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_loc     0x0000000000001bef       0xde /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(altera_avalon_performance_counter.o)
+ .debug_loc     0x0000000000001ccd      0x149 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(perf_print_formatted_report.o)
+ .debug_loc     0x0000000000001e16       0xaf /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_loc     0x0000000000001ec5      0x12d /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .debug_loc     0x0000000000001ff2     0x10ca /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -844,34 +889,34 @@ LOAD /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios
  *(.debug_varnames)
 
 .debug_alt_sim_info
-                0x0000000000000000       0x20
+                0x0000000000000000       0x10
  *(.debug_alt_sim_info)
  .debug_alt_sim_info
-                0x0000000000000000       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
+                0x0000000000000000       0x10 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
                 0x0000000000080000                __alt_data_end = 0x80000
                 0x0000000000080000                PROVIDE (__alt_stack_pointer, __alt_data_end)
                 [!provide]                        PROVIDE (__alt_stack_limit, __alt_stack_base)
-                0x00000000000423cc                PROVIDE (__alt_heap_start, end)
-                0x0000000000080000                PROVIDE (__alt_heap_limit, 0x80000)
+                [!provide]                        PROVIDE (__alt_heap_start, end)
+                [!provide]                        PROVIDE (__alt_heap_limit, 0x80000)
 OUTPUT(hardware-acceleration.elf elf32-littlenios2)
 
-.debug_ranges   0x0000000000000000      0x4a0
+.debug_ranges   0x0000000000000000      0x4b8
  .debug_ranges  0x0000000000000000       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//obj/HAL/src/crt0.o
- .debug_ranges  0x0000000000000020       0x60 obj/default/hello_world_small.o
- .debug_ranges  0x0000000000000080       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-malloc.o)
+ .debug_ranges  0x0000000000000020       0x78 obj/default/hello_world_small.o
  .debug_ranges  0x0000000000000098       0x10 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
- .debug_ranges  0x00000000000000a8       0x10 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-freer.o)
- .debug_ranges  0x00000000000000b8       0x48 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-nano-mallocr.o)
- .debug_ranges  0x0000000000000100       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
- .debug_ranges  0x0000000000000118       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
- .debug_ranges  0x0000000000000130       0x10 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-sbrkr.o)
- .debug_ranges  0x0000000000000140       0x10 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
- .debug_ranges  0x0000000000000150       0xc8 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
- .debug_ranges  0x0000000000000218       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
- .debug_ranges  0x0000000000000240       0x10 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
- .debug_ranges  0x0000000000000250       0x60 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
- .debug_ranges  0x00000000000002b0       0x48 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
- .debug_ranges  0x00000000000002f8       0x18 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
- .debug_ranges  0x0000000000000310       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
- .debug_ranges  0x0000000000000330       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
- .debug_ranges  0x0000000000000348      0x158 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)
+ .debug_ranges  0x00000000000000a8       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-printf.o)
+ .debug_ranges  0x00000000000000c0       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-puts.o)
+ .debug_ranges  0x00000000000000d8       0x10 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_ranges  0x00000000000000e8       0xc8 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-vfprintf.o)
+ .debug_ranges  0x00000000000001b0       0x28 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_ranges  0x00000000000001d8       0x10 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-writer.o)
+ .debug_ranges  0x00000000000001e8       0x60 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(lib2-divmod.o)
+ .debug_ranges  0x0000000000000248       0x28 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x0000000000000270       0x10 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x0000000000000280       0x48 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_load.o)
+ .debug_ranges  0x00000000000002c8       0x18 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_printf.o)
+ .debug_ranges  0x00000000000002e0       0x20 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_write.o)
+ .debug_ranges  0x0000000000000300       0x30 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x0000000000000330       0x18 /home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_ranges  0x0000000000000348       0x18 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_muldi3.o)
+ .debug_ranges  0x0000000000000360      0x158 /opt/altera/18.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/5.3.0/libgcc.a(_udivdi3.o)

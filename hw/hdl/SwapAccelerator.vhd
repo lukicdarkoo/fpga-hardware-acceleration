@@ -20,7 +20,8 @@ entity SwapAccelerator is
 		avm_Rd : out std_logic;
 		avm_WrData : out std_logic_vector(31 downto 0);
 		avm_RdData : in std_logic_vector(31 downto 0);
-		avm_WaitRequest : in std_logic
+		avm_WaitRequest : in std_logic;
+		IRQ : out std_logic
 	);
 end entity SwapAccelerator;
 
@@ -33,6 +34,8 @@ architecture comp of SwapAccelerator is
 	signal CntLgt : unsigned (15 downto 0); 
 	signal ValMin, ValMax : signed(31 downto 0); 
 	signal ValXOR : std_logic_vector (31 downto 0); 
+	signal iIRQEn : std_logic;
+	signal ClearFinish : std_logic;
 	type SM is(Idle, LdParam, RdAcc, WaitRd, WrSwap, WrAcc);
 	signal StateM : SM;
 begin
@@ -42,6 +45,7 @@ begin
 		if nReset = '0' then
 			RegAddStart <= (others => '0');
 			Start <= '0';
+			iIRQEn <= '0';
 		elsif rising_edge(clk) then
 			Start <= '0';
 			if avs_CS = '1' and avs_Wr = '1' then
@@ -49,6 +53,9 @@ begin
 					when "00" => RegAddStart <= avs_WrData;
 					when "01" => RegLgt <= avs_WrData(15 downto 0);
 					when "10" => Start <= avs_WrData(0);
+					when "11" => 
+						iIRQEn <= avs_WrData(0);
+						ClearFinish <= avs_WrData(1);
 					when others => null;
 				end case;
 			end if;
@@ -64,8 +71,10 @@ begin
 				case avs_Add is
 					when "00" => avs_RdData <= RegAddStart;
 					when "01" => avs_RdData(15 downto 0) <= RegLgt;
-					when "10" => avs_RdData(0) <= Start;
-					when "11" => avs_RdData(0) <= Finish;
+					when "10" => 
+						avs_RdData(0) <= Start;
+						avs_RdData(1) <= Finish;
+						avs_RdData(2) <= iIRQEn;
 					when others => null;
 				end case;
 			end if;
@@ -89,6 +98,8 @@ begin
 					avm_Rd <= '0';
 					if Start = '1' then
 						StateM <= LdParam; 
+					end if;
+					if ClearFinish = '1' or Start = '1' then
 						Finish <= '0';
 					end if;
 				when LdParam => 
@@ -138,4 +149,6 @@ begin
 		end if;
 	end process AvalonMaster;
 
+	IRQ <= '1' when Finish = '1' and iIRQEn = '1' else
+	       '0';
 end comp;

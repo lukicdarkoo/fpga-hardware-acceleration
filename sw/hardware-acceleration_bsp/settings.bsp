@@ -2,8 +2,8 @@
 <sch:Settings xmlns:sch="http://www.altera.com/embeddedsw/bsp/schema">
         <BspType>hal</BspType>
         <BspVersion>default</BspVersion>
-        <BspGeneratedTimeStamp>Apr 15, 2019 11:14:09 AM</BspGeneratedTimeStamp>
-        <BspGeneratedUnixTimeStamp>1555319649563</BspGeneratedUnixTimeStamp>
+        <BspGeneratedTimeStamp>Apr 21, 2019 7:06:55 PM</BspGeneratedTimeStamp>
+        <BspGeneratedUnixTimeStamp>1555866415623</BspGeneratedUnixTimeStamp>
         <BspGeneratedLocation>/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/sw/hardware-acceleration_bsp</BspGeneratedLocation>
         <BspSettingsFile>settings.bsp</BspSettingsFile>
         <SopcDesignFile>/home/lukicdarkoo/EPFL/real-time-embedded-systems/acceleration/hw/quartus/soc_system.sopcinfo</SopcDesignFile>

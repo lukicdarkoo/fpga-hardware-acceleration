@@ -161,6 +161,22 @@
          type = "String";
       }
    }
+   element soc_system
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element soc_system
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
    element swap_0
    {
       datum _sortIndex
@@ -315,7 +331,7 @@
   <parameter name="dcache_bursts" value="false" />
   <parameter name="dcache_numTCDM" value="0" />
   <parameter name="dcache_ramBlockType" value="Automatic" />
-  <parameter name="dcache_size" value="4096" />
+  <parameter name="dcache_size" value="0" />
   <parameter name="dcache_tagramBlockType" value="Automatic" />
   <parameter name="dcache_victim_buf_impl" value="ram" />
   <parameter name="debug_OCIOnchipTrace" value="_128" />
@@ -353,7 +369,7 @@
   <parameter name="instruction_master_high_performance_paddr_size" value="0" />
   <parameter name="instruction_master_paddr_base" value="0" />
   <parameter name="instruction_master_paddr_size" value="0" />
-  <parameter name="internalIrqMaskSystemInfo" value="7" />
+  <parameter name="internalIrqMaskSystemInfo" value="15" />
   <parameter name="io_regionbase" value="0" />
   <parameter name="io_regionsize" value="0" />
   <parameter name="master_addr_map" value="false" />
@@ -471,7 +487,7 @@
    version="18.1"
    enabled="1">
   <parameter name="allowInSystemMemoryContentEditor" value="false" />
-  <parameter name="autoInitializationFileName">$${FILENAME}_onchip_memory2_0</parameter>
+  <parameter name="autoInitializationFileName">soc_system_onchip_memory2_0</parameter>
   <parameter name="blockType" value="AUTO" />
   <parameter name="copyInitFile" value="false" />
   <parameter name="dataWidth" value="32" />
@@ -522,7 +538,7 @@
  <module
    name="swap_accelerator_0"
    kind="swap_accelerator"
-   version="1.1"
+   version="1.3"
    enabled="1" />
  <module name="timer_0" kind="altera_avalon_timer" version="18.1" enabled="1">
   <parameter name="alwaysRun" value="false" />
@@ -699,22 +715,29 @@
    kind="interrupt"
    version="18.1"
    start="nios2_gen2_0.irq"
-   end="jtag_uart_0.irq">
+   end="swap_accelerator_0.interrupt_sender">
   <parameter name="irqNumber" value="0" />
  </connection>
  <connection
    kind="interrupt"
    version="18.1"
    start="nios2_gen2_0.irq"
-   end="timer_0.irq">
+   end="jtag_uart_0.irq">
   <parameter name="irqNumber" value="1" />
  </connection>
  <connection
    kind="interrupt"
    version="18.1"
    start="nios2_gen2_0.irq"
-   end="pio_0.irq">
+   end="timer_0.irq">
   <parameter name="irqNumber" value="2" />
+ </connection>
+ <connection
+   kind="interrupt"
+   version="18.1"
+   start="nios2_gen2_0.irq"
+   end="pio_0.irq">
+  <parameter name="irqNumber" value="3" />
  </connection>
  <connection
    kind="nios_custom_instruction"
